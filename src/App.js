@@ -74,7 +74,7 @@ export default function App() {
             <span className="mr-3 text-yellow-400 group-hover:text-[#020617] transition-colors">
               <PenLine size={20} />
             </span>
-            Form Aspirasi Siswa/i
+            Form Aspirasi Siswa/Siswi MAN 1 Tulungagung
           </a>
 
           {/* Tombol Nomor Aduan Aspirasi (Baru) */}
