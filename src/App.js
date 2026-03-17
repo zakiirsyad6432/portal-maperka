@@ -57,9 +57,9 @@ export default function App() {
         {/* Nama Portal */}
         <div className="animate-fade-up delay-1 text-center mb-10">
           <h1 className="text-3xl font-extrabold tracking-tight uppercase bg-clip-text text-transparent bg-gradient-to-b from-white to-slate-400">
-            Portal MAPERKA
+            Portal Majelis Permusyawaratan Kelas
           </h1>
-          <p className="text-blue-400 font-semibold text-xs tracking-[0.2em] mt-2 opacity-80">MAJELIS PERMUSYAWARATAN KELAS MAN 1 TULUNGAGUNG</p>
+          <p className="text-blue-400 font-semibold text-xs tracking-[0.2em] mt-2 opacity-80">MAN 1 TULUNGAGUNG</p>
         </div>
 
         {/* Daftar Tombol Utama */}
